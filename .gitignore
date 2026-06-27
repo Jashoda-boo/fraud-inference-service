@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & Packages
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Testing & IDEs
+.pytest_cache/
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
